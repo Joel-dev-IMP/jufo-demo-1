@@ -46,7 +46,7 @@
     "Endpoint Url": {
         "prefix": "endpoint_url",
         "body": [
-            "\"endpoint_url\": \"https://raw.githubusercontent.com/Joel-dev-IMP/jufo-demo-${1:1}/main/SuperAddonManager-Endpoint.json\","
+            "\"endpoint_url\": \"https://raw.githubusercontent.com/Joel-dev-IMP/jufo-demo-${1:1}/main/SuperAddonManager-EndpointN.json\","
         ],
         "description": "Blender Addon Template."
     }
